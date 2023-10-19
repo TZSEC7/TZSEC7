@@ -1,3 +1,5 @@
+![gif3](https://github.com/TZSEC7/TZspam/assets/142743672/aa3b1d8b-591b-4311-bcd1-6335933ed5f3)
+
 <h1 align="center">Hi 👋, I'm TZsec7</h1>
 <h3 align="center">I am a beginner in the world of coding</h3>
 
